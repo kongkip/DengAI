@@ -3,3 +3,4 @@ This project is part of the competition on [DrivenData](https://www.drivendata.o
 1. Data cleaning and data preprocessing notebook.
 2. Visualization notebook
 3. Modeling notebook - I used Catboost model.
+I never did any feature engineering but the results were hilarious.
